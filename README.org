@@ -1,0 +1,10 @@
+* media-types
+
+Query and compare media types
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ruricolist/media-types.git   |
+| commit  | b45fd49  |
+| systems | media-types |
+|---------+-------------------------------------------|
+
